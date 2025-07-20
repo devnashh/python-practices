@@ -19,6 +19,6 @@ class Books:
         self.status = "Available!"
     
 
-book1 = Books("Science", "Micheal Jordan", 2002)
+book1 = Books("Science", "kuys", 2002)
 book1.return_book()
 book1.show_info()
